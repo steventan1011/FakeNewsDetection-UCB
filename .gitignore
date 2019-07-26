@@ -1,0 +1,14 @@
+# General Jupyter Noise/Checkpoints/etc
+.ipynb_checkpoints/
+derby.log
+
+*metastore_db*
+*.DS_Store
+
+/*/metastore_db/*
+metastore_db/*
+*/metastore_db/
+
+# Compiled files
+*.pyc
+/.project
